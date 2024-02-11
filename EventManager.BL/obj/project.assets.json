@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "EventManager.DL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "EventManager.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EventManager.DL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EventManager.DL.dll": {}
+        }
+      },
+      "EventManager.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EventManager.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EventManager.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EventManager.DL/1.0.0": {
+      "type": "project",
+      "path": "../EventManager.DL/EventManager.DL.csproj",
+      "msbuildProject": "../EventManager.DL/EventManager.DL.csproj"
+    },
+    "EventManager.Models/1.0.0": {
+      "type": "project",
+      "path": "../EventManager.Models/EventManager.Models.csproj",
+      "msbuildProject": "../EventManager.Models/EventManager.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "EventManager.DL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\zhivko\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Visual Studio Projects\\EventManager\\EventManager.BL\\EventManager.BL.csproj",
+      "projectName": "EventManager.BL",
+      "projectPath": "E:\\Visual Studio Projects\\EventManager\\EventManager.BL\\EventManager.BL.csproj",
+      "packagesPath": "C:\\Users\\zhivko\\.nuget\\packages\\",
+      "outputPath": "E:\\Visual Studio Projects\\EventManager\\EventManager.BL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\zhivko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\Visual Studio Projects\\EventManager\\EventManager.DL\\EventManager.DL.csproj": {
+              "projectPath": "E:\\Visual Studio Projects\\EventManager\\EventManager.DL\\EventManager.DL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

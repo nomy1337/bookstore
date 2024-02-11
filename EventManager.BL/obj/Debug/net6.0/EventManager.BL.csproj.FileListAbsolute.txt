@@ -1,0 +1,17 @@
+E:\Visual Studio Projects\EventManager\EventManager.BL\bin\Debug\net6.0\EventManager.BL.deps.json
+E:\Visual Studio Projects\EventManager\EventManager.BL\bin\Debug\net6.0\EventManager.BL.dll
+E:\Visual Studio Projects\EventManager\EventManager.BL\bin\Debug\net6.0\EventManager.BL.pdb
+E:\Visual Studio Projects\EventManager\EventManager.BL\bin\Debug\net6.0\EventManager.DL.dll
+E:\Visual Studio Projects\EventManager\EventManager.BL\bin\Debug\net6.0\EventManager.Models.dll
+E:\Visual Studio Projects\EventManager\EventManager.BL\bin\Debug\net6.0\EventManager.DL.pdb
+E:\Visual Studio Projects\EventManager\EventManager.BL\bin\Debug\net6.0\EventManager.Models.pdb
+E:\Visual Studio Projects\EventManager\EventManager.BL\obj\Debug\net6.0\EventManager.BL.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\EventManager\EventManager.BL\obj\Debug\net6.0\EventManager.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\EventManager\EventManager.BL\obj\Debug\net6.0\EventManager.BL.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\EventManager\EventManager.BL\obj\Debug\net6.0\EventManager.BL.AssemblyInfo.cs
+E:\Visual Studio Projects\EventManager\EventManager.BL\obj\Debug\net6.0\EventManager.BL.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\EventManager\EventManager.BL\obj\Debug\net6.0\EventManager.BL.csproj.CopyComplete
+E:\Visual Studio Projects\EventManager\EventManager.BL\obj\Debug\net6.0\EventManager.BL.dll
+E:\Visual Studio Projects\EventManager\EventManager.BL\obj\Debug\net6.0\refint\EventManager.BL.dll
+E:\Visual Studio Projects\EventManager\EventManager.BL\obj\Debug\net6.0\EventManager.BL.pdb
+E:\Visual Studio Projects\EventManager\EventManager.BL\obj\Debug\net6.0\ref\EventManager.BL.dll
